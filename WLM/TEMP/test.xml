@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<whitelist>
+  <description>
+    <customer>NiceOneCode s.r.l.</customer>
+    <creation_date>30/03/2018</creation_date>
+    <last_modify>02/06/2018 16:56</last_modify>
+    <title>XML Developer's Guide</title>
+    <created_by>Pippo e Pluto</created_by>
+    <notes>Descrizioneeeee</notes>
+  </description>
+  <arm>
+    <serial_no>a1b2c3d4e5f6</serial_no>
+    <qr_code>codice a caso</qr_code>
+    <added_on>31/03/2018 12:13:44</added_on>
+    <added_by>Paperino</added_by>
+    <active>True</active>
+  </arm>
+  <arm>
+    <serial_no>a1b2c3d4e5f6</serial_no>
+    <qr_code>codice a caso</qr_code>
+    <added_on>31/03/2018 12:13:44</added_on>
+    <added_by>Minnie</added_by>
+    <active>False</active>
+  </arm>
+  <arm>
+    <serial_no>a1b2c3d4e5f6</serial_no>
+    <qr_code>codice a caso</qr_code>
+    <added_on>31/03/2018 12:13:44</added_on>
+    <added_by>Zio Tom</added_by>
+    <active>True</active>
+  </arm>
+  <arm>
+    <serial_no>a1b2c3d4e5f6</serial_no>
+    <qr_code>codice a caso</qr_code>
+    <added_on>31/03/2018 12:13:44</added_on>
+    <added_by>Paperino</added_by>
+    <active>False</active>
+  </arm>
+  <arm>
+    <serial_no>123456789</serial_no>
+    <qr_code>qr123456789</qr_code>
+    <added_on>01/06/2018</added_on>
+    <added_by>amico mio 2</added_by>
+    <active>True</active>
+  </arm>
+</whitelist>

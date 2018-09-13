@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<whitelist>
+  <description>
+    <customer></customer>
+    <creation_date></creation_date>
+	<last_modify></last_modify>
+    <title></title>
+    <created_by></created_by>
+	<notes></notes>
+  </description>
+  <arm>
+    <id>1</id>
+    <serial_no></serial_no>
+    <added_on></added_on>
+    <added_by></added_by>
+	<notes></notes>
+    <active>True</active>
+  </arm>
+</whitelist>
